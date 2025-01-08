@@ -308,9 +308,9 @@
         bindings = <
           ________ ________ ________ ________ ________                                                                          ________ ________ ________ ________ ________
           ________ ________ ________ ________ ________ ________                                                        ________ ________ ________ ________ ________ ________
-          ________ ________ ________ MSE_SLOW ________ ________                                                        ________ ________ SPRINGRN SPRINGRN ________ ________
-          ________ SPRINGRN MSE_SLOW MSE_SLOW MSE_SLOW ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
-          ________ SPRINGRN MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_SLOW MSE_SLOW MSE_SLOW MSE_SLOW ________
+          ________ ________ ________ MSE_SLOW ________ ________                                                        ________ ________ MSE_SLOW MSE_SLOW ________ ________
+          ________ MSE_SLOW MSE_SLOW MSE_SLOW MSE_SLOW ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
+          ________ MSE_SLOW MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_SLOW MSE_SLOW MSE_SLOW MSE_SLOW ________
           ________ ________ ________ ________ ________          YELLOW   ORANGE   ________  ________ DULL_GRN ________            YELLOW   ORANGE  MAGENTA ________ ________
         >;
         layer-id = <LAYER_MouseSlow>;
@@ -322,9 +322,9 @@
         bindings = <
           ________ ________ ________ ________ ________                                                                          ________ ________ ________ ________ ________
           ________ ________ ________ ________ ________ ________                                                        ________ ________ ________ ________ ________ ________
-          ________ ________ ________ MSE_FAST ________ ________                                                        ________ ________ SPRINGRN SPRINGRN ________ ________
-          ________ SPRINGRN MSE_FAST MSE_FAST MSE_FAST ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
-          ________ SPRINGRN MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_FAST MSE_FAST MSE_FAST MSE_FAST ________
+          ________ ________ ________ MSE_FAST ________ ________                                                        ________ ________ MSE_FAST MSE_FAST ________ ________
+          ________ MSE_FAST MSE_FAST MSE_FAST MSE_FAST ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
+          ________ MSE_FAST MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_FAST MSE_FAST MSE_FAST MSE_FAST ________
           ________ ________ ________ ________ ________          YELLOW   ORANGE   ________  ________ DULL_GRN ________            YELLOW   ORANGE  MAGENTA ________ ________
         >;
         layer-id = <LAYER_MouseFast>;
@@ -336,9 +336,9 @@
         bindings = <
           ________ ________ ________ ________ ________                                                                          ________ ________ ________ ________ ________
           ________ ________ ________ ________ ________ ________                                                        ________ ________ ________ ________ ________ ________
-          ________ ________ ________ MSE_WARP ________ ________                                                        ________ ________ SPRINGRN SPRINGRN ________ ________
-          ________ SPRINGRN MSE_WARP MSE_WARP MSE_WARP ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
-          ________ SPRINGRN MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_WARP MSE_WARP MSE_WARP MSE_WARP ________
+          ________ ________ ________ MSE_WARP ________ ________                                                        ________ ________ MSE_WARP MSE_WARP ________ ________
+          ________ MSE_WARP MSE_WARP MSE_WARP MSE_WARP ________                                                        ________ MSE_FAST MSE_WARP MSE_SLOW ________ ________
+          ________ MSE_WARP MSE_SLOW MSE_WARP MSE_FAST ________ MAGENTA  ________ ________       RED ________ ________ ________ MSE_WARP MSE_WARP MSE_WARP MSE_WARP ________
           ________ ________ ________ ________ ________          YELLOW   ORANGE   ________  ________ DULL_GRN ________            YELLOW   ORANGE  MAGENTA ________ ________
         >;
         layer-id = <LAYER_MouseWarp>;
