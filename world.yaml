@@ -45,7 +45,7 @@ characters:
     grave:      { lower: "è",  upper: "È"  }
     ae:         { lower: "æ",  upper: "Æ"  }
   A:
-    acute:      { lower: "á",  upper: "Á"  }
+    acute:      { lower: "ä",  upper: "Ä"  }
     diaeresis:  { lower: "ä",  upper: "Ä"  }
     circumflex: { lower: "â",  upper: "Â"  }
     grave:      { lower: "à",  upper: "À"  }
@@ -55,7 +55,7 @@ characters:
     acute:      { lower: "ý",  upper: "Ý"  }
     diaeresis:  { lower: "ÿ",  upper: "Ÿ"  }
   O:
-    acute:      { lower: "ó",  upper: "Ó"  }
+    acute:      { lower: "ö",  upper: "Ö"  }
     diaeresis:  { lower: "ö",  upper: "Ö"  }
     circumflex: { lower: "ô",  upper: "Ô"  }
     grave:      { lower: "ò",  upper: "Ò"  }
@@ -63,7 +63,7 @@ characters:
     slash:      { lower: "ø",  upper: "Ø"  }
     oe:         { lower: "œ",  upper: "Œ"  }
   U:
-    acute:      { lower: "ú",  upper: "Ú"  }
+    acute:      { lower: "å",  upper: "Å"  }
     diaeresis:  { lower: "ü",  upper: "Ü"  }
     circumflex: { lower: "û",  upper: "Û"  }
     grave:      { lower: "ù",  upper: "Ù"  }
